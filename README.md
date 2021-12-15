@@ -1,4 +1,1 @@
--   👋 Hi, I’m Alessio
--   I’m interested in coding and improving my cybersecurity skills!
--   I’m currently learning hackthebox and python
--   📫 How to reach me : Just contact me via Github
+Hi, currently taking some Tryhackme courses to become a penetration tester!
